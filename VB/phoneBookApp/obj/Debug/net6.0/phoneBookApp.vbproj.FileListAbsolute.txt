@@ -1,0 +1,15 @@
+C:\revature\hbksilver-code\revature\VB\phoneBookApp\bin\Debug\net6.0\phoneBookApp.exe
+C:\revature\hbksilver-code\revature\VB\phoneBookApp\bin\Debug\net6.0\phoneBookApp.deps.json
+C:\revature\hbksilver-code\revature\VB\phoneBookApp\bin\Debug\net6.0\phoneBookApp.runtimeconfig.json
+C:\revature\hbksilver-code\revature\VB\phoneBookApp\bin\Debug\net6.0\phoneBookApp.dll
+C:\revature\hbksilver-code\revature\VB\phoneBookApp\bin\Debug\net6.0\ref\phoneBookApp.dll
+C:\revature\hbksilver-code\revature\VB\phoneBookApp\bin\Debug\net6.0\phoneBookApp.pdb
+C:\revature\hbksilver-code\revature\VB\phoneBookApp\obj\Debug\net6.0\phoneBookApp.vbproj.AssemblyReference.cache
+C:\revature\hbksilver-code\revature\VB\phoneBookApp\obj\Debug\net6.0\phoneBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\revature\hbksilver-code\revature\VB\phoneBookApp\obj\Debug\net6.0\phoneBookApp.AssemblyInfoInputs.cache
+C:\revature\hbksilver-code\revature\VB\phoneBookApp\obj\Debug\net6.0\phoneBookApp.AssemblyInfo.vb
+C:\revature\hbksilver-code\revature\VB\phoneBookApp\obj\Debug\net6.0\phoneBookApp.vbproj.CoreCompileInputs.cache
+C:\revature\hbksilver-code\revature\VB\phoneBookApp\obj\Debug\net6.0\phoneBookApp.dll
+C:\revature\hbksilver-code\revature\VB\phoneBookApp\obj\Debug\net6.0\ref\phoneBookApp.dll
+C:\revature\hbksilver-code\revature\VB\phoneBookApp\obj\Debug\net6.0\phoneBookApp.pdb
+C:\revature\hbksilver-code\revature\VB\phoneBookApp\obj\Debug\net6.0\phoneBookApp.genruntimeconfig.cache
